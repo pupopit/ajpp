@@ -8,3 +8,4 @@
 8. JSP - Java Beans
 9. JSP - Custom Tags
 10. JSP - Application Context
+11. Simple RESTful Service (**FRESH**)
